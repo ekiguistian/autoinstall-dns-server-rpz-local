@@ -136,13 +136,13 @@ Harusnya hasilnya juga keluar dari `127.0.0.1#53`.
 
 ---
 
-## ❤️ Support Project Ini
-Kalau script ini bermanfaat, kamu bisa traktir kopi ☕ lewat PayPal:  
+## Dukungan anda berarti bagi saya untuk mengembangkan dan menemukan lebih banyak inspirasi.
 
-👉 [paypal.me/ekiguistian](https://www.paypal.me/ekiguistian22)
+[Traktir Eki Segelas Kopi](https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t)
 
-Atau scan QR berikut:  
-![PayPal QR](paypal_qr_ekiguistian22.png)
+<a href="https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t">
+  <img src="./G025119549_Payment_Link_b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t.png" alt="QR Traktir Eki Segelas Kopi" width="320" />
+</a>
 
 ---
 
@@ -152,7 +152,7 @@ Atau scan QR berikut:
 
 <p align="center">
   ❤️ Created by <b>Leo Ganteng</b> | 
-  ☕ Support me via <a href="https://www.paypal.me/ekiguistian22">PayPal</a>
+  ☕ Support me via <a href="https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t">Traktir Eki Segelas Kopi</a>
 </p>
 
 <p align="center">
